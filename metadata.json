@@ -1,0 +1,7 @@
+{
+  "name": "Myra: Your AI Girlfriend",
+  "description": "An emotional, human-like AI companion with voice chat, lip-synced animations, and real-time search capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
